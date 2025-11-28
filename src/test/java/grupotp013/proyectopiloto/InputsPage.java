@@ -1,4 +1,4 @@
-package grupotp013.proyectopilotoalvaro;
+package grupotp013.proyectopiloto;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
