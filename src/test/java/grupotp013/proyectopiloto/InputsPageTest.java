@@ -1,4 +1,4 @@
-package grupotp013.proyectopilotoalvaro;
+package grupotp013.proyectopiloto;
 
 import org.junit.jupiter.api.*;
 import org.openqa.selenium.WebDriver;
