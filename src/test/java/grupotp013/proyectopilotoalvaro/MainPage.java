@@ -1,4 +1,4 @@
-package grupotp013.proyectopiloto;
+package grupotp013.proyectopilotoalvaro;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -10,7 +10,7 @@ public class MainPage {
     @FindBy(xpath = "//*[@data-test-marker='Developer Tools']")
     public WebElement seeDeveloperToolsButton;
 
-    @FindBy(xpath = "//*[@data-test='suggestion-action']")
+    @FindBy(xpath = "//*[@data-test='suggestion-link']")
     public WebElement findYourToolsButton;
 
     @FindBy(xpath = "//div[@data-test='main-menu-item' and @data-test-marker = 'Developer Tools']")
