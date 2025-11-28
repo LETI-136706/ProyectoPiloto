@@ -1,9 +1,9 @@
-package grupotp013.proyectopiloto;
+package grupotp013.proyectopilotoalvaro;
 
 import org.junit.jupiter.api.*;
 
 import static org.junit.jupiter.api.Assertions.*;
-import org.openqa.selenium.*;
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -13,7 +13,7 @@ import org.openqa.selenium.TimeoutException;
 import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.openqa.selenium.support.ui.ExpectedConditions;
-import static org.junit.jupiter.api.Assertions.*;
+
 import java.time.Duration;
 
 public class MainPageTest {
